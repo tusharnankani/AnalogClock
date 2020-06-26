@@ -9,6 +9,13 @@
 * Neomorphic Interface 
 * Added Themes: Dark Mode <-> Light Mode
 
+
+## *Features to be added*
+
+- Adding Timezones 
+- Adding a stopwatch/timer(countdowns)
+
+
 ## *Technologies used*
 
 - HTML5
