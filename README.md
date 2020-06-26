@@ -18,10 +18,7 @@
 ## Website Demo:
 ![1](https://user-images.githubusercontent.com/61280281/85862463-6e0a9a00-b7df-11ea-806e-2ebbeda2ab0c.png)
 ![2](https://user-images.githubusercontent.com/61280281/85862468-6fd45d80-b7df-11ea-8142-435302297a22.png)
-![3](https://user-images.githubusercontent.com/61280281/85862470-706cf400-b7df-11ea-8e31-90f2f8ae4a2e.png)
-
-
-
+![3](https://user-images.githubusercontent.com/61280281/85862470-706cf400-b7df-11ea-8e31-90f2f8ae4a2e.png
 
 
 # *Author*
