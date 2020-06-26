@@ -13,7 +13,7 @@
 ## *Features to be added*
 
 - Adding Timezones 
-- Adding a stopwatch/timer(countdowns)
+- Adding a stopwatch / timer (countdowns)
 
 
 ## *Technologies used*
