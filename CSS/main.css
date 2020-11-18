@@ -172,7 +172,6 @@ body.light .mn:before {
     content: 'Light Mode';
     white-space: nowrap;
     left: 25px;
-
 }
 
 body.light .toggleClass {
